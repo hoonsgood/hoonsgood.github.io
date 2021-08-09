@@ -3,7 +3,6 @@ slayout: simple
 title:  "GitHub Pages 만들기"
 ---
 
-# GitHub Pages 만들기
 ## 1. 테마 선택
 [Jekyll theme](https://github.com/topics/jekyll-theme) 링크를 통해 마음에 드는 테마를 선택합니다.\
 Star가 많을수록 인기있는 테마입니다.
