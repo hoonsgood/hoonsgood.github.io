@@ -25,7 +25,6 @@ File first line :
 slayout: simple
 title:  "Welcome to Jekyll!"
 ---
-
 ```
 
 
