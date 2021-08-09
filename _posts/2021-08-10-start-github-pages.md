@@ -17,8 +17,8 @@ Star가 많을수록 인기있는 테마입니다.
 ### _config.yml 설정
 `url` 설정을 위에서 변경한 `https://Repository name`으로 변경합니다.
 ## 4. post 하기
-`_posts` 폴더 아래에 블로그 글을 발행을 합니다.
-블로그 글을 쓸때에는 아래 규칙을 따라야 합니다.
+`_posts` 폴더 아래에 블로그 글을 발행을 합니다.\
+블로그 글을 쓸때에는 아래 규칙을 따라야 합니다.\
 File name : yyyy-MM-dd-title.md\
 File first line : 
 ```
