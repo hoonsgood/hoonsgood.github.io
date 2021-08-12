@@ -9,9 +9,9 @@ lastmod: 2021-08-10 01:51:00 +0900 # sitemap.xml에서 사용됨
 
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 
-header:
-  overlay_image: https://unsplash.com/photos/wX2L8L-fGeA
-  overlay_filter: 0.5 # 투명도
+# header:
+#   overlay_image: https://unsplash.com/photos/wX2L8L-fGeA
+#   overlay_filter: 0.5 # 투명도
 
 categories: 
   - github io
