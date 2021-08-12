@@ -1,18 +1,17 @@
 ---
 permalink: /about/
 
-layout: signle
-
 title: "About"
 excerpt: ""
 
+date: 2021-08-12 00:44:00 +0900
 lastmod: 2021-08-12 00:44:00 +0900
 
 author_profile: true
 
 # toc: true
-tags: 
-    - about
+# tags: 
+    # - about
 ---
 # About
 ## Taehoon Kim (hoonsgood)
