@@ -28,16 +28,9 @@ tags:
 ### _config.yml 설정
 `url` 설정을 위에서 변경한 `https://Repository name`으로 변경한다.
 ## 4. post 하기
-`_posts` 폴더 아래에 블로그 글을 발행을 한다.\
+`_posts` 폴더 아래에 블로그 글을 발행한다.\
 블로그 글을 쓸때에는 아래 규칙을 따라야 한다.\
-File name : yyyy-MM-dd-title.md\
-File first line : 
-```
----
-slayout: simple
-title:  "Welcome to Jekyll!"
----
-```
-
+File name : yyyy-MM-dd-name.md\
+[Front Matter 설정](https://hoonsgood.github.io/github.io/frontmatter/)
 
 

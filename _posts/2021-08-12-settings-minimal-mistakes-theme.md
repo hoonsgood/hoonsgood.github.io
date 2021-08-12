@@ -25,7 +25,7 @@ tags:
 `docs/_pages/year-archive.md`\
 
 # 네비게이션 항목 추가
-`_date` 디렉토리의 `navigation.yml`을 아래와 같이 수정합니다.
+`_date` 디렉토리의 `navigation.yml`을 아래와 같이 수정한다.
 ```
 main:
   - title: "About"
