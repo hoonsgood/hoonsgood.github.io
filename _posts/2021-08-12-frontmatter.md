@@ -1,11 +1,11 @@
 ---
 layout: single
 
-title: "포스트의 제목"
+title: "Front Matter 설정하기"
 excerpt: "발췌부분 설정하면 이 글이 들어가고, 설정하지 않는다면 글의 첫 문단이 들어가게됨"
 
-date: 2020-04-09 16:50:00 +0900
-lastmod: 2020-04-09 16:50:00 +0900 # sitemap.xml에서 사용됨
+date: 2021-08-12 20:17:00 +0900
+lastmod: 2021-08-12 20:17:00 +0900 # sitemap.xml에서 사용됨
 
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 
@@ -14,11 +14,12 @@ header:
   overlay_filter: 0.5 # 투명도
 
 categories: 
-  - test post
+  - github io
 
 tags: 
-    - test
+    - github io
     - theme
+    - front matter
 
 # table of contents
 toc: true # 오른쪽 부분에 목차를 자동 생성해준다.
