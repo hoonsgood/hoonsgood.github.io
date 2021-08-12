@@ -10,7 +10,7 @@ lastmod: 2021-08-10 01:51:00 +0900 # sitemap.xml에서 사용됨
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 
 header:
-  overlay_image: https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  overlay_image: https://unsplash.com/photos/wX2L8L-fGeA
   overlay_filter: 0.5 # 투명도
 
 categories: 
