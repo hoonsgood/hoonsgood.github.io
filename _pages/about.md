@@ -1,8 +1,13 @@
 ---
 permalink: /about/
+
+layout: signle
+
 title: "About"
-excerpt: "about.md"
-last_modified_at: 2021-08-12 00:44:00
+excerpt: ""
+
+lastmod: 2021-08-12 00:44:00 +0900
+
 author_profile: true
 
 # toc: true
