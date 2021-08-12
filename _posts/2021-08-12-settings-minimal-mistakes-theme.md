@@ -1,7 +1,7 @@
 ---
 layout: single
 
-title:  "minimal mistakes theme 네비게이션 설정"
+title:  "minimal mistakes 네비게이션 설정"
 excerpt: ""
 
 date: 2021-08-12 01:50:00 +0900
