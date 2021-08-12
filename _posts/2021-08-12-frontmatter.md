@@ -14,12 +14,10 @@ header:
   overlay_filter: 0.5 # 투명도
 
 categories: 
-  - github io
+  - github.io
 
 tags: 
-    - github io
-    - theme
-    - front matter
+    - github.io
 
 # table of contents
 toc: true # 오른쪽 부분에 목차를 자동 생성해준다.

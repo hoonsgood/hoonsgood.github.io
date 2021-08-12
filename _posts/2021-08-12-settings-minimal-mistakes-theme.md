@@ -10,12 +10,10 @@ lastmod: 2021-08-12 01:50:00 +0900 # sitemap.xml에서 사용됨
 author_profile: true # 왼쪽부분 프로필을 띄울건지
 
 categories: 
-  - github io
+  - github.io
 
 tags: 
-    - github io
-    - theme
-    - navigation
+    - github.io
 ---
 
 # _pages 디렉토리 생성
