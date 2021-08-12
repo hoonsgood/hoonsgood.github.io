@@ -3,8 +3,11 @@ permalink: /about/
 title: "About"
 excerpt: "about.md"
 last_modified_at: 2021-08-12 00:44:00
-toc: true
-tags: [About]
+author_profile: true
+
+# toc: true
+tags: 
+    - about
 ---
 # About
 ## Taehoon Kim (hoonsgood)
