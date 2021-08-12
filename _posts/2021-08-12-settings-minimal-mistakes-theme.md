@@ -4,8 +4,8 @@ layout: single
 title:  "minimal mistakes theme 네비게이션 설정"
 excerpt: ""
 
-date: 2021-08-12 20:17:00 +0900
-lastmod: 2021-08-12 20:17:00 +0900 # sitemap.xml에서 사용됨
+date: 2021-08-12 01:50:00 +0900
+lastmod: 2021-08-12 01:50:00 +0900 # sitemap.xml에서 사용됨
 
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 

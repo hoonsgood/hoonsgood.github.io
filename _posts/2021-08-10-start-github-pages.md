@@ -4,8 +4,8 @@ layout: single
 title: "GitHub Pages 만들기"
 excerpt: ""
 
-date: 2021-08-12 20:17:00 +0900
-lastmod: 2021-08-12 20:17:00 +0900 # sitemap.xml에서 사용됨
+date: 2021-08-10 01:46:00 +0900
+lastmod: 2021-08-10 01:51:00 +0900 # sitemap.xml에서 사용됨
 
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 
