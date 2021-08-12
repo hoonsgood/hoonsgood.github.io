@@ -17,7 +17,7 @@ tags:
 ---
 
 ## 1. 테마 선택
-[Jekyll theme](https://github.com/topics/jekyll-theme) 링크를 통해 마음에 드는 테마를 선택한다.\
+[Jekyll theme](https://github.com/topics/jekyll-theme) 링크를 통해 마음에 드는 테마를 선택한다.
 ## 2. fork
 테마에 대한 github page 우측 상단의 `fork` 버튼을 클릭한다.\
 해당 테마의 전체 소스가 내 github 계정으로 복사가 된 것을 확인한다.
