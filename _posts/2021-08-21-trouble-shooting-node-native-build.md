@@ -34,3 +34,5 @@ $ npm config set msvs_version 2015 –global
 ```
 
 이후에 npm install을 하면 정상적으로 설치가 되었다.
+
+### nodejs 설치 시 'Automatically install the necessary tool, ...'를 체크해서 설치하면 된다.
