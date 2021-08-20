@@ -19,15 +19,15 @@ tags:
 ---
 npm으로 네이티브 모듈 설치 중 빌드 에러 발생 시, 아래와 같이 진행한다.
 
-## 1. windows-build-tools가 설치되어 있다면 삭제
-## 2. node-gyp가 설치되어 있다면 삭제
-## 3. python 2.7.x버전 설치 후 환경변수 등록
-## 4. Powershell을 관리자 권한으로 열어 아래 모듈 설치
+### 1. windows-build-tools가 설치되어 있다면 삭제
+### 2. node-gyp가 설치되어 있다면 삭제
+### 3. python 2.7.x버전 설치 후 환경변수 등록
+### 4. Powershell을 관리자 권한으로 열어 아래 모듈 설치
 ```bash
 $ npm install --global --production windows-build-tools@4.0.0
 $ npm install --global node-gyp
 ```
-## 5. npm config 설정
+### 5. npm config 설정
 ```bash
 $ npm config set python C:\Python27
 $ npm config set msvs_version 2015 –global
