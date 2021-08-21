@@ -1,7 +1,7 @@
 ---
 layout: single
 
-title: "npm install error bcrypt, sharp"
+title: "npm install error bcrypt"
 excerpt: ""
 
 date: 2021-08-14 02:55:00 +0900
@@ -16,16 +16,14 @@ tags:
     - troubleshooting
     - nodejs
     - bcrypt
-    - sharp
-
 ---
 
-### nodejs 설치 시 'Automatically install the necessary tool, ...'를 체크해서 설치하면 된다.
+1. nodejs 설치 시 'Automatically install the necessary tool, ...'를 체크해서 설치
 
-계속해서 에러가 발생하는 경우, _libvips폴더를 삭제한 후 아래와 같이 install한다.
-```
-npm install --unsafe-perm
-```
+
+~~2. npm install --global windows-build-tools --vs2015~~
+~~3. _libvips폴더 삭제~~
+
 
 ~~npm으로 네이티브 모듈 설치 중 빌드 에러 발생 시, 아래와 같이 진행한다.~~
 
