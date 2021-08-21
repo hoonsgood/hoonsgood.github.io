@@ -22,6 +22,11 @@ tags:
 
 ### nodejs 설치 시 'Automatically install the necessary tool, ...'를 체크해서 설치하면 된다.
 
+계속해서 에러가 발생하는 경우, _libvips폴더를 삭제한 후 아래와 같이 install한다.
+```
+npm install --unsafe-perm
+```
+
 ~~npm으로 네이티브 모듈 설치 중 빌드 에러 발생 시, 아래와 같이 진행한다.~~
 
 ~~1. windows-build-tools가 설치되어 있다면 삭제~~
