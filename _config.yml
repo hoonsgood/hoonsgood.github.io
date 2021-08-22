@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "custom" #"default" "contrast", "aqua", "air", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: 'contrast' #"default" "contrast", "aqua", "air", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: 'en-US'
@@ -30,7 +30,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname: 'hoonsgood' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
   utterances:
-    theme                : minimal-mistakes-jekyll # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme: minimal-mistakes-jekyll # "github-light" (default), "github-dark"
+    issue_term: # "pathname" (default)
   staticman:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -50,10 +50,10 @@ reCaptcha:
   siteKey:
   secret:
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+  path: # blank (default) uses feed.xml
+search: true # true, false (default)
+search_full_content: # true, false (default)
+search_provider: # lunr (default), algolia, google
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -85,7 +85,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider: 'google-gtag' # false (default), "google", "google-universal", "custom"
   google:
     tracking_id:
     anonymize_ip: # true, false (default)
@@ -205,7 +205,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -274,7 +273,7 @@ defaults:
 
   # _pages. # 이건 devinlife 보고 붙여넣기 한거
   - scope:
-      path: ""
+      path: ''
       type: pages
     values:
       layout: single
