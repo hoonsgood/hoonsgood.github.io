@@ -21,3 +21,5 @@ Hello World!
 **Frontend** : React, .NET Framework\
 **RF** : 5GNR, LTE, WLAN, BT\
 **Etc** : Typescript, KC, V2X
+
+<https://devinlife.com>
