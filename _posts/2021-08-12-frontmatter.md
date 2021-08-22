@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.5 # 투명도
 
 categories:
-  - github.io
+  - SW
 
 tags:
   - github.io
